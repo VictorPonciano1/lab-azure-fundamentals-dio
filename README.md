@@ -47,5 +47,5 @@ Durante o curso são explorados conceitos como:
 ## 🚀 Sobre o curso
 
 Os conteúdos são baseados no curso **Azure Essentials** da
-[Digital Innovation One (DIO)](https://www.dio.me)
+[Digital Innovation One (DIO)](https://web.dio.me/track/microsoft-azure-essentials)
 
