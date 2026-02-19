@@ -29,6 +29,8 @@ Os diretórios deste repositório podem conter:
 - 📚 Conceitos importantes de computação em nuvem
 - 💡 Observações e aprendizados pessoais
 
+> **NOTA: Todos as Atividades/Laboratórios estão separadas em diretórios que correspondem sua caracterização.** 
+
 ---
 
 ## ☁️ Tópicos abordados
