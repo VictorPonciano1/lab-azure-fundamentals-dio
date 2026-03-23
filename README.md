@@ -1,6 +1,7 @@
 # ☁️ Laboratórios Azure Essentials (DIO)
 
-> 🧑🏻 Autor: Victor Ponciano — https://github.com/VictorPonciano1  
+> 🧑🏻 Autor: Victor Ponciano — https://github.com/VictorPonciano1
+> Status: Em Desenvolvimento ⚠
 
 Este repositório reúne **anotações, atividades práticas e resumos técnicos**
 realizados durante o curso **Azure Essentials**, oferecido pela plataforma DIO.
