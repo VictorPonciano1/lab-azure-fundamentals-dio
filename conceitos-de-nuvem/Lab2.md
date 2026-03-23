@@ -1,4 +1,4 @@
-# LABORATÓRIO - CRIANDO MÁQUINAS VIRTUAIS
+# LABORATÓRIO - BENEFÍCIOS DA COMPUTAÇÃO EM NUVEM
 
 Um dos benefícios da Nuvem se trata do **SLA (Service Level Agreement / Acordo de Nível de Serviço)**. O SLA define a garantia de disponibilidade que a Microsoft oferece para cada serviço do Azure. Quanto maior a porcentagem do SLA, menor é o tempo de inatividade permitido. Abaixo, uma tabela com os principais níveis de SLA e seus respectivos tempos de inatividade:
 
